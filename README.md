@@ -1,4 +1,4 @@
-# Property Scraper
+# [Realtor.ca](https://www.realtor.ca) Property Data Scraper
 
 A web scraping tool to extract property listings from Realtor.ca using Selenium and store them in an Excel file. The scraper retrieves property links for specified cities, then gathers detailed information about each property.
 
