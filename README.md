@@ -38,6 +38,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install undetected-chromedriver selenium pandas openpyxl tqdm
+```
 
 
 ## Project Status
